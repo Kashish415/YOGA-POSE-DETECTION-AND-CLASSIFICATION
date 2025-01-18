@@ -20,7 +20,7 @@ The objective of this project is to build a real-time yoga pose detection system
   
 ## Technologies Used:
 
-- Python: Main programming language.
+- Python: Main programming language. (v-3.10 or above)
 - OpenCV: For image and video processing.
 - MediaPipe: To detect key body landmarks.
 - TensorFlow/Keras: For training the pose classification model.
