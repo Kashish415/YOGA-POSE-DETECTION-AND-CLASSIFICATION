@@ -1,6 +1,6 @@
 # Yoga Pose Detection and Classification
 
-This project detects and classifies five custom-trained yoga poses using computer vision techniques. The system can identify the following poses:
+This project detects and classifies five custom-trained yoga poses using computer vision and deep learning techniques. The system can identify the following poses:
 
 - Cobbler's Pose (Baddha Konasana)
 - Bridge Pose (Setu Bandhasana)
